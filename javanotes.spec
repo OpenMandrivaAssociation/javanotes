@@ -47,3 +47,11 @@ rm -rf $RPM_BUILD_ROOT
 %doc %{_docdir}/%{name}-%{version}/
 
 
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 5.1-6
++ Revision: 734024
+- rebuild
+- imported package javanotes
+
