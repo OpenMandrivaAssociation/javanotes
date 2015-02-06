@@ -1,6 +1,6 @@
 Name:       javanotes
 Version:    5.1
-Release:    6
+Release:    7
 Summary:    Introduction to Programming Using Java, By David J. Eck
 
 Group:      Development/Java
