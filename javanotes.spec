@@ -5,7 +5,7 @@ Summary:    Introduction to Programming Using Java, By David J. Eck
 
 Group:      Development/Java
 License:    CC-BY-SA
-URL:        http://math.hws.edu/javanotes/
+URL:        https://math.hws.edu/javanotes/
 Source0:    http://math.hws.edu/eck/cs124/downloads/%{name}5.tar.bz2
 BuildRoot:  %(mktemp -ud %{_tmppath}/%{name}-%{version}-%{release}-XXXXXX)
 BuildArch:  noarch
